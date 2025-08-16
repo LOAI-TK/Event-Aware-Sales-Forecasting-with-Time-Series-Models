@@ -122,7 +122,7 @@ The dataset (sales_marketing.csv) contains daily sales by category and channel w
 
 - Add interaction features (e.g., Ramadan × Weekend).
 
-- Compare with Prophet, LSTM, or Temporal Fusion Transformers.
+- Compare with Prophet, LSTM, or Temporal Fusion Transformers,PATCHTST,NHITS.
 
 # Tech Stack
 
