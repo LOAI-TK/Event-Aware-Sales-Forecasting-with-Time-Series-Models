@@ -1,4 +1,4 @@
-# Event-Aware-Sales-Forecasting-with-Time-Series-Models
+# Event Aware Sales Forecasting with Time Series Models
 This repository contains an end-to-end pipeline for forecasting retail sales while incorporating calendar effects, Hijri-based holidays, and marketing events. The project leverages XGBoost with time-series features such as lags, rolling windows, and event-based indicators.
 
 ---
